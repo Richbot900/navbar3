@@ -1,0 +1,139 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+body .barrasup {
+    align-items: center;
+    background: #666666;
+    background-color: #666666;
+    display: flex;
+    flex-wrap: wrap;
+    height: 46px;
+    gap: 1200px;
+
+}
+
+body .barrasup .idiomslec > h1{
+    align-items: center;
+    padding: 0 25px;
+    color: #f1f1f1;
+    font-size: 24px;
+}
+
+body .barrasup .logos {
+    color:#f1f1f1;
+}
+
+body .barrasup .logos > span{
+    padding: 0 5px;
+}
+
+body .barn {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1000px;
+}
+
+body .barn .logo > span{
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+body .barn .pages{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+body .piedepag {
+    background: #333333;
+    background-color: #333333;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    gap: 200px;
+}
+body .piedepag .infoizq {
+    padding-top: 24px;
+    padding-left: 300px;
+    width: 400px;
+}
+
+body .piedepag .infoizq .logo2 > span{
+    color: #666666;
+    font-size: 56px;
+
+}
+
+body .piedepag .infoizq .texto > p{
+
+    color: #f1f1f1;
+    width: 90%;
+}
+
+body .piedepag .infoizq .contactos {
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
+    width: 30%;
+
+}
+
+body .piedepag .infoizq .contactos .icon-text {
+    align-items: center;
+    color: #f1f1f1;
+    display: flex;
+    gap: 10px;
+    padding-top: 4px;
+    width: 150%;
+}
+
+body .piedepag .infoizq .logos3 {
+    color: #666666;
+    font-size: 24px;
+    padding: 35px 0;
+    width: 30%;
+}
+
+body .piedepag .infoder {
+    color: #f1f1f1;
+    display: flex;
+    height: 50%;
+    gap: 120px;
+    padding-right: 60px;
+}
+
+body .piedepag .infoder .product > p {
+    padding-top: 15px;
+}
+
+body .piedepag .infoder .support > p {
+    padding-top: 15px;   
+}
+
+
+
+body .piedepag .infoder .support > button {
+    background-color: #666666;
+    border-radius: 5px;
+    justify-content: center;
+    padding: 16px 48px;
+    text-align: center;
+}
+
+body .fondo {
+    background-color: #333333;
+    border: 2px solid#333333;
+    color: #f1f1f1;
+    text-align: center;
+    align-items: center;
+    height: 160px;
+}
+
+body .fondo > p {
+    padding-top: 50px;
+}
